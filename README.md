@@ -1,7 +1,7 @@
 # CCED
 It is about Chinese cybersecurity event detection
 
-To be updated
+Updates to specific content will begin in December 2025.
 
 ![image](https://github.com/vegetable-edu/CCED/blob/main/table1.png)
 
